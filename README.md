@@ -24,7 +24,6 @@ tt 1641614631
 ## qrcode
 调用/usr/sbin/screencapture进行截图
 
-<img width="564" alt="4" src="https://user-images.githubusercontent.com/48286013/148642644-edbec79a-412b-429b-b226-4858d2188ae6.png">
 
 <img width="347" alt="5" src="https://user-images.githubusercontent.com/48286013/148642654-731136bd-bc0e-4ed0-ab56-b70f0537fad8.png">
 
